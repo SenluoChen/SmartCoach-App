@@ -14,10 +14,14 @@ The main goal is to connect court position → shot selection → rally outcome 
 
 ## Tech Stack
 
--Frontend: TypeScript, React 
+-Frontend: TypeScript, React
+
 -Styling: Tailwind CSS 
+
 -State Management: Redux Toolkit / Zustand
+
 -AI : ChatGPT API integration for match insights
+
 -Languages in repo: Mainly TypeScript, with some Kotlin / Objective-C / Ruby for future mobile/tooling support
 
 ## Project Structure
