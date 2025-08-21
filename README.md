@@ -1,4 +1,4 @@
-# BasketIQ Website
+# SmartCoach-App
 
 SmartCoach-App is a sports AI-driven training and strategy assistant (starting with badminton, extendable to basketball and other sports).
 The main goal is to connect court position → shot selection → rally outcome → strategy insights, helping coaches and players improve decision-making with data visualization and AI-powered recommendations.
