@@ -6,10 +6,15 @@ The main goal is to connect court position → shot selection → rally outcome 
 ## Features
 
 -Court Zone Selection & Contextual Shot Suggestions: Select front/mid/rear court zones; available shots filtered by context (clear, drop, smash, drive, net, lift, push, block, etc.)
+
 -Rally Recording & Review: Log each shot with origin, destination, type, and outcome (win, forced error, unforced error)
+
 -Visualization & Analytics: Heatmaps, trends, and opponent shot preferences
+
 -AI Smart Coach : Export match data in structured JSON and send to an LLM for personalized advice
+
 -Import/Export: CSV/JSON for easy backup and sharing
+
 -Cross-Platform Vision: Web-first with mobile (Android/iOS) planned
 
 ## Tech Stack
@@ -104,6 +109,7 @@ interface CoachAdvice {
 ## Environment Variables (if AI enabled)
 
 -OPENAI_API_KEY=xxxxxx
+
 -ANALYTICS_WRITE_KEY=xxxxxx
 
 ## Testing
